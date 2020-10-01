@@ -576,6 +576,9 @@ pre code {
   margin-right: auto;
   margin-left: auto;
 }
+.darker-span {
+  filter: brightness(50%);
+}
 @media (min-width: 576px) {
   .container {
     max-width: 540px;
@@ -5343,6 +5346,7 @@ input[type=button].btn-block {
   background-clip: padding-box;
   border: 1px solid #e3e6ec;
   border-radius: 0.35rem;
+  
 }
 
 .dropdown-menu-left {
