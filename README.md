@@ -3,11 +3,11 @@
 
 ## Homepage for credit website assignment
 
- ![](./Users/theophiluskwek/Documents/Github/Web app design/CS2024-WEB-DESIGN-AND-TECHNOLOGIES/assets/Loan+Homepage.png)
+ ![](assets/Loan+Homepage.png)
  ## Product page for credit website assignment
 
- ![](./Users/theophiluskwek/Documents/Github/Web app design/CS2024-WEB-DESIGN-AND-TECHNOLOGIES/assets/Loan+Productpage.png)
+ ![](assets/Loan+Productpage.png)
  ## Contact page for credit website assignment
 
- ![](./Users/theophiluskwek/Documents/Github/Web app design/CS2024-WEB-DESIGN-AND-TECHNOLOGIES/assets/Loan+Contactpage.png)
+ ![](assets/Loan+Contactpage.png)
 
