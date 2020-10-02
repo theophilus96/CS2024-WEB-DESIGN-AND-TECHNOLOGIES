@@ -576,9 +576,6 @@ pre code {
   margin-right: auto;
   margin-left: auto;
 }
-.darker-span {
-  filter: brightness(50%);
-}
 @media (min-width: 576px) {
   .container {
     max-width: 540px;
