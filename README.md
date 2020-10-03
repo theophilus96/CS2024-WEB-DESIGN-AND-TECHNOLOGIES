@@ -3,11 +3,11 @@
 
 ## Homepage for credit website assignment
 
- ![](assets/Loan+Homepage.png)
+ ![](./assets/Loan+Homepage.png)
  ## Product page for credit website assignment
 
- ![](assets/Loan+Productpage.png)
+ ![](./assets/Loan+Productpage.png)
  ## Contact page for credit website assignment
 
- ![](assets/Loan+Contactpage.png)
+ ![](./assets/Loan+Contactpage.png)
 
